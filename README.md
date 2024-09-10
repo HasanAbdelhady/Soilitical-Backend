@@ -8,5 +8,5 @@ Soilitical is an AI-powered solution that helps landowners and farmers determine
 - **Admin Dashboard**: In Progress
 - **API for External Clients**: In Progress
 
-- ##  **Currente state**
+##  **Currente state**
 - **A simple home page is currently made with a simple nav bar**
